@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/CLionProjects/redblack/redblack.cpp
+iostream
+-
+redblack.h
+C:/Users/user/CLionProjects/redblack/redblack.h
+
+C:/Users/user/CLionProjects/redblack/redblack.h
+
